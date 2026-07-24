@@ -14,7 +14,7 @@
 
 # 🚀 Sobre mim
 
-💜 Apaixonado por tecnologia
+💜 Sempre curti a área da tecnologia
 
 🌎 Brasil
 
