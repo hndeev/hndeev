@@ -64,6 +64,10 @@
 
 ⭐ Ferramentas para Comunidades
 
+## 🚀 Projetos Recentes
+- [🍅 Pomodoro Focus Timer](https://hndeev.github.io/pomodoro-timer/) - Timer de produtividade com SVG animado
+- [🔐 Gerador de Senhas](https://hndeev.github.io/password-generator/) - Ferramenta client-side segura
+
 ---
 
 ## 📊 Minhas Estatísticas
