@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="banner.png" alt="Banner do perfil" width="100%">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Heitor!</h1>
