@@ -66,20 +66,20 @@
 
 ---
 
-# 📈 Atividade
+## 📊 Minhas Estatísticas
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hndeev&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hndeev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hndeev&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ---
 
-# 🐍 Contribuições
+## 🐍 Contribuições
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/hndeev/hndeev/output/github-contribution-grid-snake.svg"/>
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hndeev/hndeev/output/snake.svg" />
+</div>
 ---
 
 # 🌐 Contato
