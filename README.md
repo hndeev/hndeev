@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Heitor!
 
-<!--
-**ybaianob7/ybaianob7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End em aprendizado.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔥 Firebase
+
+## 📚 Atualmente estudando
+
+- Responsividade
+- Git & GitHub
+- APIs
+- Firebase
+
+## 🛠️ Projetos
+
+- 📊 Painel Staff
+- ✅ Sistema de Verificação
+- 🎮 Projetos Web
+- 💡 Ferramentas para Comunidades
+
+---
+
+> "Sempre aprendendo uma coisa nova."
+> 
