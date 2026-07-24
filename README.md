@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="BANNER-GITHUB" width="100%">
+</p>
+
 <h1 align="center">👋 Olá, eu sou o Heitor!</h1>
 
 <h3 align="center">💻 Desenvolvedor Front-End | Aprendendo todos os dias 🚀</h3>
