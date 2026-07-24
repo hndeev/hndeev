@@ -65,7 +65,7 @@
 # 📈 Atividade
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ybaianob7&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hndeev&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 # 🐍 Contribuições
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ybaianob7/ybaianob7/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/hndeev/hndeev/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 
 <p align="center">
 
-<a href="https://github.com/ybaianob7">
+<a href="https://github.com/hndeev">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
